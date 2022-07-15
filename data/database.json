@@ -1,0 +1,67 @@
+{
+  "heroes": [
+    {
+      "name": "Alien-X",
+      "about": "Lorem ipsum...",
+      "profile": "Best",
+      "image" :"https://bit.ly/3z6JS7I",
+      "id": 1
+    },
+    {
+      "name": "Humungousaur",
+      "about": "Lorem ipsum...",
+      "profile": "Best",
+      "image" :"https://bit.ly/3z7Lcau",
+      "id": 2
+    },
+    {
+      "name": "Grey Matter",
+      "about": "Lorem ipsum...",
+      "profile": "notBest",
+      "image" :"https://bit.ly/3AQsyVO",
+      "id": 3
+    },
+    {
+      "name": "Heat Blast",
+      "about": "Lorem ipsum...",
+      "profile": "Best",
+      "image" :"https://bit.ly/3OcpVjW",
+      "id": 4
+    },
+    {
+      "name": "Way Big",
+      "about": "Lorem ipsum...",
+      "profile": "notBest",
+      "image" :"https://bit.ly/3IIAM4e",
+      "id": 5
+    },
+    {
+      "name": "Big Chill",
+      "about": "Lorem ipsum...",
+      "profile": "notBest",
+      "image" :"https://bit.ly/3o5bV0P",
+      "id": 6
+    },
+    {
+      "name": "Rath",
+      "about": "Lorem ipsum...",
+      "profile": "notBest",
+      "image" :"https://bit.ly/3RE8rjp",
+      "id": 7
+    },
+    {
+      "name": "Four Arms",
+      "about": "Lorem ipsum...",
+      "profile": "Best",
+      "image" :"https://www.wikihow.com/images/8/86/Draw-Ben-10-Aliens-Step-28.jpg",
+      "id": 8
+    },
+    {
+      "name": "Cannonbolt",
+      "about": "Lorem ipsum...",
+      "profile": "notBest",
+      "image" :"https://bit.ly/3Pfrb7i",
+      "id": 9
+    }
+  ]
+}
