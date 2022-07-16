@@ -31,6 +31,7 @@ const Details = () => {
                 <article>
                     <h1>{ hero.name }</h1>
                     <img src={`${hero.image}`} alt ="hel"/>
+                    <h3>{hero.comment}</h3>
                 </article>
             )}
             {isChanging && <button className="changeButton" onClick={handleChange}>Change Name</button>}
