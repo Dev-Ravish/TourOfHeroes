@@ -2,63 +2,63 @@
   "heroes": [
     {
       "name": "Alien-X",
-      "about": "Lorem ipsum...",
+      "about": "We're the most powerful being in the universe. We change the very nature of space and time.",
       "profile": "Best",
       "image" :"https://bit.ly/3z6JS7I",
       "id": 1
     },
     {
       "name": "Humungousaur",
-      "about": "Lorem ipsum...",
+      "about": "You've just made a humungous mistake!",
       "profile": "Best",
       "image" :"https://bit.ly/3z7Lcau",
       "id": 2
     },
     {
       "name": "Grey Matter",
-      "about": "Lorem ipsum...",
+      "about": "How do I stop this thing? I'm a thinker, not a fighter! Think...think...",
       "profile": "notBest",
       "image" :"https://bit.ly/3AQsyVO",
       "id": 3
     },
     {
       "name": "Heat Blast",
-      "about": "Lorem ipsum...",
+      "about": "Hey! Why don't you pick on someone with real firepower?",
       "profile": "Best",
       "image" :"https://bit.ly/3OcpVjW",
       "id": 4
     },
     {
       "name": "Way Big",
-      "about": "Lorem ipsum...",
+      "about": "Whoa... check me out! I'm not just big, I'm WAY BIG!",
       "profile": "notBest",
       "image" :"https://bit.ly/3IIAM4e",
       "id": 5
     },
     {
       "name": "Big Chill",
-      "about": "Lorem ipsum...",
+      "about": "Chill, dude.",
       "profile": "notBest",
       "image" :"https://bit.ly/3o5bV0P",
       "id": 6
     },
     {
       "name": "Rath",
-      "about": "Lorem ipsum...",
+      "about": "LEMME TELL YA SOMETHIN'...",
       "profile": "notBest",
       "image" :"https://bit.ly/3RE8rjp",
       "id": 7
     },
     {
       "name": "Four Arms",
-      "about": "Lorem ipsum...",
+      "about": "Give up, Trombipulor, I've got you outnumbered. Four arms to two!",
       "profile": "Best",
       "image" :"https://www.wikihow.com/images/8/86/Draw-Ben-10-Aliens-Step-28.jpg",
       "id": 8
     },
     {
       "name": "Cannonbolt",
-      "about": "Lorem ipsum...",
+      "about": "Time to rock and roll!",
       "profile": "notBest",
       "image" :"https://bit.ly/3Pfrb7i",
       "id": 9
