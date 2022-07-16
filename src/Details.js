@@ -25,7 +25,7 @@ const Details = () => {
     }
     return ( 
         <div className="hero-details">
-            {error && <div>error.message</div>}
+            {error && <div>{error}</div>}
             {isPending && <div>loading...</div>}
             {hero && (
                 <article>
